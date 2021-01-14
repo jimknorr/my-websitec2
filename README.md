@@ -1,7 +1,8 @@
+
 # My Website
 
 This is a really awesome website
 
-Edit on example branch
-
 Added a line in this file on the update-readme branch
+
+This line was added in the local repo in the update-readme local branch
